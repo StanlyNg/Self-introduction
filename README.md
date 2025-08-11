@@ -28,13 +28,6 @@
 
 ---
 
-### 🔥 连续提交状态
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=stanlyng&theme=radical" />
-</p>
-
----
-
 ### 🌀 动态贪吃蛇贡献图
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
